@@ -1,5 +1,7 @@
-<center>
-
-![](https://github.com/rniii/rniii/assets/142252300/b0545f3b-cc20-4c19-940e-41f790aecb05)
-
-</center>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=rniii&layout=compact&theme=transparent&text_color=ffffff&hide_border=true&hide_title=true"
+    media="(prefers-color-scheme: dark)">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rniii&layout=compact&theme=transparent&text_color=000000&hide_border=true&hide_title=true">
+</picture>
