@@ -11,3 +11,5 @@ I'm most active on [Codeberg](https://codeberg.org/rini?tab=activity), but I acc
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=rniii&layout=compact&theme=transparent&text_color=000000&hide_border=true&hide_title=true">
 </picture>
+
+<sup><sup>pan jumpscare
