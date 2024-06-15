@@ -8,5 +8,5 @@
 </picture>
 </span>
 <span>
-<img align=right src="https://github.com/rniii/rniii/assets/142252300/e4bdeeee-d2e1-4a19-8cc0-f2dfc3884a0e">
+<img align=right height=400 src="https://github.com/rniii/rniii/assets/142252300/e4bdeeee-d2e1-4a19-8cc0-f2dfc3884a0e">
 </span>
