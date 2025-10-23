@@ -23,13 +23,9 @@ Add my button
 
 ---
 
-```html
-<a href="https://github.com/rniii">
-  <img width="88" height="31" alt="rini" src="https://github.com/user-attachments/assets/8fab1976-c32b-45eb-8104-93d8d86cfc14">
-</a>
-```
+Copy the image to your website and link it to [my profile](https://github.com/rniii) (please don't be silly and actually hotlink to Github). Or use the cooler one:
 
-Or the cooler one ![](https://cdn.discordapp.com/emojis/598225127947370538.webp?size=24)
+![](https://cdn.discordapp.com/emojis/598225127947370538.webp?size=24)
 
 ```html
 <iframe width="88" height="31" style="border:none" sandbox="allow-scripts allow-popups"
