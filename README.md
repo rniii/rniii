@@ -33,7 +33,7 @@ srcdoc="<!doctype html><body onload=&#34;d=d.style,d.position=`absolute`,x=0,y=M
 setInterval`x+=u${166}y+=v,z=x<=0||x>=20,w=y<=0||y>=67
 z&&w?c=(c+3)%6-1:0,u^=-z-z,v^=-w-w
 d.background='hwb('+60*c+' 0 0)'
-d.top=x+'px',d.left=y+'px'`&#34;bgcolor=#000><a href=https://github.com/rniii target=_blank><img id=d src=data:image/gif;base64,R0lGODdhFQALAHcAACH5BAkKAAAALAAAAAAVAAsAgAAAAAAAAAInDI4Xa6m8EkNQPQtivnvuH3mc1pSlU3EUxJrtC8eig851Q2daTjMFADs>'></iframe>
+d.top=x+'px',d.left=y+'px'`&#34;bgcolor=#000><a href=https://github.com/rniii target=_blank><img id=d src=data:image/gif;base64,R0lGODdhFQALAHcAACH5BAkKAAAALAAAAAAVAAsAgAAAAAAAAAInDI4Xa6m8EkNQPQtivnvuH3mc1pSlU3EUxJrtC8eig851Q2daTjMFADs>"></iframe>
 ```
 
 </details>
